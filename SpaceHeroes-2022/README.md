@@ -13,7 +13,7 @@ Flag format: `shctf{...flag...}`
 Things i solved:
 | Name | Points | Category | Writeup |
 | ---- | ------ | -------- | ------- |
-| Rocket | 356 | pwn | Not yet |
+| Rocket | 356 | pwn | [Here](./rocket/) |
 | Times Up | 293 | re | [Here](./timesup/) |
 | Launch Code | 205 | re | Not yet |
 | Spaceflight | 174 | re | Not yet |
