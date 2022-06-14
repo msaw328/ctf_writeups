@@ -6,7 +6,7 @@ Time: June 1st 2019 00:00 UTC - June 3rd 2019 00:00 UTC
 
 Type: Online Jeopardy
 
-Flag format: `fb{...flag...}`
+Flag format: `fb{...}`
 
 
 

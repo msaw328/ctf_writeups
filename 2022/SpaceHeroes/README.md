@@ -6,7 +6,7 @@ Time: 01 April 2022, 18:00 CEST — 03 April 2022, 23:00 CEST
 
 Type: Online Jeopardy
 
-Flag format: `shctf{...flag...}`
+Flag format: `shctf{...}`
 
 
 

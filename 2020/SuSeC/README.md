@@ -6,7 +6,7 @@ Time: 15 March 2020, 07:30 CET - 16 March 2020, 19:30 CET
 
 Type: Online Jeopardy
 
-Flag format: `SUSEC{...flag...}`
+Flag format: `SUSEC{...}`
 
 
 
