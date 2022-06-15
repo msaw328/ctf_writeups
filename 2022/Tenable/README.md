@@ -17,7 +17,7 @@ Things i solved:
 | Open Sesame (1 of 2) | 200 | re | Not yet |
 | Characters of Shakespeare's Plays | 200 | stego | Not yet |
 | Olden Ring | 100 | re | Not yet |
-| DIY Crypto | 100 | crypto | Not yet |
+| DIY Crypto | 100 | crypto | [Here](./diy_crypto/) |
 | Top Secret | 100 | forensics | Not yet |
 | Macro Economics | 100 | forensics | Not yet |
 
