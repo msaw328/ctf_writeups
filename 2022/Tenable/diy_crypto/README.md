@@ -171,8 +171,6 @@ for block in pxork_blocks:
     plaintext += xor_blocks(cur_key, block)
     cur_key = rotate_block_left(cur_key)
 
-plaintext
-
 open('recovered_plaintext.txt', 'w').write(plaintext.rstrip(b'\x00').decode())
 ```
 
